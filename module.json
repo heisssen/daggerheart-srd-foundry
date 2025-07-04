@@ -16,7 +16,21 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
+      },
+	  
+	      {
+      "name": "charcater-options",
+      "label": "Character options",
+      "path": "packs/charcater-options",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "url": "https://github.com/heisssen/daggerheart-srd-foundry",
+  "manifest": "https://raw.githubusercontent.com/heisssen/daggerheart-srd-foundry/main/module.json",
+  "download": "https://codeload.github.com/heisssen/daggerheart-srd-foundry/zip/main"
 }
