@@ -1,36 +1,36 @@
 {
-  "id": "daggerheart-srd",
-  "title": "Daggerheart SRD",
-  "version": "1.0.0",
-  "compatibility": {
-    "minimum": "13",
-    "verified": "13"
-  },
-  "packs": [
-    {
-      "name": "domains",
-      "label": "Domains",
-      "path": "packs/domains",
-      "type": "Item",
-      "system": "daggerheart",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-	},
-	{
-      "name": "character-options",
-      "label": "Character options",
-      "path": "packs/character-options",
-      "type": "Item",
-      "system": "daggerheart",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    }
-  ],
-  "url": "https://github.com/heisssen/daggerheart-srd-foundry",
-  "manifest": "https://raw.githubusercontent.com/heisssen/daggerheart-srd-foundry/main/module.json",
-  "download": "https://codeload.github.com/heisssen/daggerheart-srd-foundry/zip/main"
+    "id": "daggerheart-srd",
+    "title": "Daggerheart SRD",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "13",
+        "verified": "13"
+    },
+    "packs": [
+        {
+            "name": "domains",
+            "label": "Domains",
+            "path": "packs/domains",
+            "type": "Item",
+            "system": "daggerheart",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "character-options",
+            "label": "Character options",
+            "path": "packs/character-options",
+            "type": "Item",
+            "system": "daggerheart",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        }
+    ],
+    "url": "https://github.com/heisssen/daggerheart-srd-foundry",
+    "manifest": "https://raw.githubusercontent.com/heisssen/daggerheart-srd-foundry/main/module.json",
+    "download": "https://codeload.github.com/heisssen/daggerheart-srd-foundry/zip/main"
 }
