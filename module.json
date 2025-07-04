@@ -17,11 +17,11 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-	  
-	      {
-      "name": "charcater-options",
+	},
+	{
+      "name": "character-options",
       "label": "Character options",
-      "path": "packs/charcater-options",
+      "path": "packs/character-options",
       "type": "Item",
       "system": "daggerheart",
       "ownership": {
